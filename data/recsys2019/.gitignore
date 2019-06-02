@@ -2,4 +2,4 @@
 train.csv
 dense/*
 
-.gitignore
+*.gitignore
