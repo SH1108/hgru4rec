@@ -3,5 +3,5 @@ import pandas as pd
 
 def get_name2idx(data, name):
     unique = data[name].unique()
-    name2idx_dic = dict(pd.Series(len(unique), unique))
+    name2idx_dic = dict(pd.Series(np.arange(len(unique)), unique))
     return np.array([name2idx_dic[i] for i in data[name]])

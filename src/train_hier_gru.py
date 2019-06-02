@@ -71,6 +71,8 @@ elif args.dataset == 'xing-full':
     prefix = 'xing/full'
 elif args.dataset == 'xing-dense-sample':
     prefix = 'xing_sample/dense-sample'
+elif args.dataset == 'recsys-dense':
+    prefix = 'recsys2019/dense'
 else:
     raise RuntimeError('Unknown dataset: {}'.format(args.dataset))
 
@@ -214,7 +216,3 @@ if args.eval_file is not None:
     df_ranks.to_hdf(args.eval_file, 'data')
 logger.info('Recall@{}: {:.4f}'.format(args.eval_cutoff, recall))
 logger.info('MRR@{}: {:.4f}'.format(args.eval_cutoff, mrr))
-
-
-
-
