@@ -1,0 +1,1001 @@
+,Unnamed: 0,user_id,session_id,timestamp,step,action_type,item_id,platform,city,device,current_filters,impressions,prices,action
+0,0,56,56,1541037460,1,search for poi,188,AU,"Sydney, Australia",mobile,,,,
+1,1,56,56,1541037522,2,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+2,2,56,56,1541037522,3,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+3,3,56,56,1541037532,4,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+4,4,56,56,1541037532,5,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+5,5,56,56,1541037532,6,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+6,6,56,56,1541037532,7,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+7,7,56,56,1541037532,8,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+8,8,56,56,1541037542,9,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+9,9,56,56,1541037542,10,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+10,10,56,56,1541037542,11,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+11,11,56,56,1541037542,12,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+12,12,56,56,1541037542,13,interaction item image,188,AU,"Sydney, Australia",mobile,,,,3.0
+13,13,56,56,1541037543,14,clickout item,188,AU,"Sydney, Australia",mobile,,3400638|1253714|3367857|5100540|1088584|666916|54833|2922310|9711560|109038|666856|10077318|1431482|129343|6339822|6806806|1041528|109013|3909420|55088|3095758|109018|54885|1257342|2595006,95|66|501|112|95|100|101|72|82|56|56|143|70|25|71|162|73|143|188|118|77|131|143|49|165,0.0
+14,14,56,56,1541038469,15,search for poi,188,AU,"Sydney, Australia",mobile,,,,
+15,15,56,56,1541038485,16,clickout item,188,AU,"Sydney, Australia",mobile,,55109|129343|54824|2297972|109014|1257342|1031578|109018|1332971|666916|54833|54885|2237222|10077318|1166793|9132132|1474297|3909420|6622154|55091|8444418|54804|2050977|666936|55088,162|25|150|143|101|49|118|131|18|100|101|143|51|143|123|36|66|188|124|138|94|137|180|112|118,0.0
+16,16,56,56,1541030832,1,interaction item info,188,BR,"Ubatuba, Brazil",mobile,,,,2.0
+17,17,56,56,1541030843,2,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+18,18,56,56,1541030843,3,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+19,19,56,56,1541030852,4,interaction item info,188,BR,"Ubatuba, Brazil",mobile,,,,2.0
+20,20,56,56,1541030867,5,interaction item info,188,BR,"Ubatuba, Brazil",mobile,,,,2.0
+21,21,56,56,1541030877,6,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+22,22,56,56,1541030877,7,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+23,23,56,56,1541030887,8,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+24,24,56,56,1541030887,9,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+25,25,56,56,1541030887,10,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+26,26,56,56,1541030897,11,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+27,27,56,56,1541030897,12,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+28,28,56,56,1541030897,13,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+29,29,56,56,1541030897,14,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+30,30,56,56,1541030897,15,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+31,31,56,56,1541030908,16,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+32,32,56,56,1541030908,17,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+33,33,56,56,1541030908,18,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+34,34,56,56,1541030908,19,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+35,35,56,56,1541030918,20,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+36,36,56,56,1541030918,21,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+37,37,56,56,1541030918,22,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+38,38,56,56,1541030918,23,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+39,39,56,56,1541030918,24,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+40,40,56,56,1541030918,25,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+41,41,56,56,1541030918,26,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+42,42,56,56,1541030928,27,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+43,43,56,56,1541030978,28,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+44,44,56,56,1541031009,29,interaction item info,188,BR,"Ubatuba, Brazil",mobile,,,,2.0
+45,45,56,56,1541031024,30,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+46,46,56,56,1541031024,31,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+47,47,56,56,1541031034,32,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+48,48,56,56,1541031034,33,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+49,49,56,56,1541031034,34,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+50,50,56,56,1541031034,35,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+51,51,56,56,1541031034,36,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+52,52,56,56,1541031034,37,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+53,53,56,56,1541031034,38,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+54,54,56,56,1541031034,39,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+55,55,56,56,1541031034,40,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+56,56,56,56,1541031034,41,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+57,57,56,56,1541031044,42,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+58,58,56,56,1541031044,43,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+59,59,56,56,1541031044,44,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+60,60,56,56,1541031044,45,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+61,61,56,56,1541031044,46,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+62,62,56,56,1541031044,47,interaction item deals,188,BR,"Ubatuba, Brazil",mobile,,,,4.0
+63,63,56,56,1541031064,48,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+64,64,56,56,1541031064,49,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+65,65,56,56,1541031088,50,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+66,66,56,56,1541031088,51,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+67,67,56,56,1541031088,52,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+68,68,56,56,1541031088,53,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+69,69,56,56,1541031088,54,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+70,70,56,56,1541031088,55,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+71,71,56,56,1541031098,56,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+72,72,56,56,1541031098,57,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+73,73,56,56,1541031108,58,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+74,74,56,56,1541031108,59,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+75,75,56,56,1541031108,60,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+76,76,56,56,1541031108,61,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+77,77,56,56,1541031108,62,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+78,78,56,56,1541031108,63,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+79,79,56,56,1541031108,64,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+80,80,56,56,1541031115,65,interaction item image,188,BR,"Ubatuba, Brazil",mobile,,,,3.0
+81,81,56,56,1541063730,1,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+82,82,56,56,1541063730,2,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+83,83,56,56,1541063740,3,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+84,84,56,56,1541063740,4,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+85,85,56,56,1541063740,5,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+86,86,56,56,1541063750,6,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+87,87,56,56,1541063760,7,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+88,88,56,56,1541063760,8,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+89,89,56,56,1541063760,9,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+90,90,56,56,1541063770,10,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+91,91,56,56,1541063770,11,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+92,92,56,56,1541063770,12,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+93,93,56,56,1541063770,13,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+94,94,56,56,1541063770,14,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+95,95,56,56,1541063770,15,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+96,96,56,56,1541063770,16,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+97,97,56,56,1541063780,17,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+98,98,56,56,1541063780,18,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+99,99,56,56,1541063790,19,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+100,100,56,56,1541063790,20,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+101,101,56,56,1541063790,21,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+102,102,56,56,1541063790,22,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+103,103,56,56,1541063790,23,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+104,104,56,56,1541063800,24,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+105,105,56,56,1541063800,25,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+106,106,56,56,1541063800,26,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+107,107,56,56,1541063810,27,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+108,108,56,56,1541063810,28,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+109,109,56,56,1541063810,29,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+110,110,56,56,1541063810,30,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+111,111,56,56,1541063810,31,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+112,112,56,56,1541063810,32,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+113,113,56,56,1541063851,33,interaction item image,188,FI,"Krakow, Poland",mobile,,,,3.0
+114,114,56,56,1541063863,34,interaction item info,188,FI,"Krakow, Poland",mobile,,,,2.0
+115,115,56,56,1541063864,35,clickout item,188,FI,"Krakow, Poland",mobile,,2795374|5582964|1088390|2781070|1258068|1271962|3184892|148884|3528776|107183|5156744|107048|1907333|3370484|6003326|8436316|9025316|125181|3861490|131257|4415954|107162|3143352|6652864|8118684,64|54|36|121|76|81|92|40|73|52|98|104|56|414|67|111|21|122|55|104|56|64|40|29|44,0.0
+116,116,56,56,1541100038,1,search for destination,188,UK,"London, United Kingdom",desktop,,,,
+117,117,56,56,1541100132,2,search for poi,188,UK,"London, United Kingdom",desktop,,,,
+118,118,56,56,1541100193,3,search for poi,188,UK,"London, United Kingdom",desktop,,,,
+119,119,56,56,1541100314,4,interaction item image,188,UK,"London, United Kingdom",desktop,,,,3.0
+120,120,56,56,1541100314,5,interaction item image,188,UK,"London, United Kingdom",desktop,,,,3.0
+121,121,56,56,1541100322,6,clickout item,188,UK,"London, United Kingdom",desktop,,12693|46363|81657|18448|47687|152913|18417|927627|4147572|819616|18380|47333|18425|1255377|4043482|1032816|18388|1216900|106471|106567|12667|84082|1152188|98737|47410,104|92|100|103|102|104|72|85|81|75|107|86|98|83|98|103|105|99|106|99|98|96|96|105|99,0.0
+122,122,56,56,1541100652,7,clickout item,188,UK,"London, United Kingdom",desktop,,12693|46363|81657|18448|47687|152913|18417|927627|4147572|819616|18380|47333|18425|1255377|4043482|1032816|18388|1216900|106471|106567|12667|84082|1152188|98737|47410,104|92|100|103|102|104|72|85|81|75|107|86|98|83|98|103|105|99|106|99|98|96|96|105|99,0.0
+123,123,56,56,1541107285,1,search for destination,188,US,"Bakersfield, USA",desktop,,,,
+124,124,56,56,1541107286,2,search for destination,188,US,"Bakersfield, USA",desktop,,,,
+125,125,56,56,1541107336,3,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating,,,
+126,126,56,56,1541107366,4,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+127,127,56,56,1541107366,5,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+128,128,56,56,1541107366,6,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+129,129,56,56,1541107366,7,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+130,130,56,56,1541107366,8,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+131,131,56,56,1541107366,9,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+132,132,56,56,1541107368,10,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+133,133,56,56,1541107368,11,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+134,134,56,56,1541107368,12,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+135,135,56,56,1541107368,13,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+136,136,56,56,1541107368,14,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+137,137,56,56,1541107368,15,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+138,138,56,56,1541107368,16,filter selection,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,,,
+139,139,56,56,1541107435,17,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+140,140,56,56,1541107435,18,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+141,141,56,56,1541107457,19,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+142,142,56,56,1541107457,20,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+143,143,56,56,1541107467,21,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+144,144,56,56,1541107467,22,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+145,145,56,56,1541107467,23,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+146,146,56,56,1541107467,24,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+147,147,56,56,1541107467,25,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+148,148,56,56,1541107467,26,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+149,149,56,56,1541107467,27,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+150,150,56,56,1541107467,28,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+151,151,56,56,1541107467,29,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+152,152,56,56,1541107477,30,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+153,153,56,56,1541107477,31,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+154,154,56,56,1541107477,32,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+155,155,56,56,1541107477,33,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+156,156,56,56,1541107487,34,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+157,157,56,56,1541107487,35,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+158,158,56,56,1541107487,36,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+159,159,56,56,1541107487,37,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+160,160,56,56,1541107487,38,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+161,161,56,56,1541107487,39,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+162,162,56,56,1541107487,40,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+163,163,56,56,1541107487,41,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+164,164,56,56,1541107487,42,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+165,165,56,56,1541107487,43,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+166,166,56,56,1541107487,44,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+167,167,56,56,1541107497,45,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+168,168,56,56,1541107497,46,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+169,169,56,56,1541107497,47,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+170,170,56,56,1541107497,48,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+171,171,56,56,1541107497,49,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+172,172,56,56,1541107497,50,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+173,173,56,56,1541107497,51,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+174,174,56,56,1541107497,52,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+175,175,56,56,1541107497,53,interaction item image,188,US,"Bakersfield, USA",desktop,,,,3.0
+176,176,56,56,1541107500,54,clickout item,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,1306936|56482|2842358|6881276|65685|63259|65399|1320460|360566|376756|885381|60769|2141484|375876|829246|58909|360571|1298518|63542|71926|376076|57803|376181|1117192|359326,178|104|110|94|57|96|46|61|48|35|50|38|59|44|57|56|55|45|146|41|44|44|39|38|126,0.0
+177,177,56,56,1541107538,55,clickout item,188,US,"Bakersfield, USA",desktop,Very Good Rating|5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|3 Star,1306936|56482|2842358|6881276|65685|63259|65399|1320460|360566|376756|885381|60769|2141484|375876|829246|58909|360571|1298518|63542|71926|376076|57803|376181|1117192|359326,178|104|110|94|57|96|46|61|48|35|50|38|59|44|57|56|55|45|146|41|44|44|39|38|126,0.0
+178,178,56,56,1541062453,1,interaction item rating,188,AU,"Seminyak, Indonesia",desktop,,,,1.0
+179,179,56,56,1541062460,2,search for item,188,AU,"Legian, Indonesia",desktop,,,,5.0
+180,180,56,56,1541062532,3,clickout item,188,AU,"Legian, Indonesia",desktop,,1258184|3866722|8929970|2315702|116619|1511641|111929|3223738|1288161|2870144|5788568|93911|94842|104163|159006|749441|955179|1670979|1890015|2073706|2081896|2162500|2625059|3143258|4926962,51|43|69|49|62|50|55|42|87|46|43|114|194|50|196|351|22|154|116|89|55|270|192|92|26,0.0
+181,181,56,56,1541102679,1,clickout item,188,MX,"Mazamitla, Mexico",mobile,,2349076|2552514|7159866|3898458|1846017|7250252|2828571|2685752|8775800|7721912|2019273|2674824|2675278|2677206|2754104|2754106|2756126|2759902|2881712|3245044|3245301|3245316|4704368|5117712|5942776,54|39|55|51|41|94|24|38|59|24|72|314|46|40|183|51|50|129|96|118|86|125|51|50|117,0.0
+182,182,56,56,1541102682,2,interaction item image,188,MX,"Mazamitla, Mexico",mobile,,,,3.0
+183,183,56,56,1541102682,3,interaction item image,188,MX,"Mazamitla, Mexico",mobile,,,,3.0
+184,184,56,56,1541075258,1,clickout item,188,FR,"Alicante, Spain",tablet,,6721|6724|40109|147227|80983|6719|40718|1194054|624921|511646|1490687|32937|82021|81021|40872|2798980|160439|3916322|80862|110591|80907|970167|147226|40282|86878,36|45|99|48|49|50|49|56|40|63|35|95|40|78|132|48|76|62|58|43|53|126|65|42|45,0.0
+185,185,56,56,1541104536,1,change of sort order,188,IT,"Bolzano, Italy",mobile,,,,
+186,186,56,56,1541104539,2,change of sort order,188,IT,"Bolzano, Italy",mobile,,,,
+187,187,56,56,1541104539,3,filter selection,188,IT,"Bolzano, Italy",mobile,Best Value,,,
+188,188,56,56,1541104565,4,clickout item,188,IT,"Bolzano, Italy",mobile,,22953|22951|22947|22949|8774118|45527|82900|22952|138929|2557176|138930|82901|108584|1685419|138928|898407|22954|82902|1240717|4970574|6471774|5433230|3219404|3768162|3186611,158|166|145|145|62|129|100|128|139|95|110|170|105|109|165|110|145|130|125|125|104|99|90|95|75,0.0
+189,189,56,56,1541104650,5,interaction item image,188,IT,"Bolzano, Italy",mobile,,,,3.0
+190,190,56,56,1541104650,6,interaction item image,188,IT,"Bolzano, Italy",mobile,,,,3.0
+191,191,56,56,1541104659,7,clickout item,188,IT,"Bolzano, Italy",mobile,,22953|22951|22947|22949|8774118|45527|82900|22952|138929|2557176|138930|82901|108584|1685419|138928|898407|22954|82902|1240717|4970574|6471774|5433230|3219404|3768162|3186611,158|166|145|145|62|129|100|128|139|95|110|170|105|109|165|110|145|130|125|125|104|99|90|95|75,0.0
+192,192,56,56,1541104660,8,interaction item image,188,IT,"Bolzano, Italy",mobile,,,,3.0
+193,193,56,56,1541104660,9,interaction item image,188,IT,"Bolzano, Italy",mobile,,,,3.0
+194,194,56,56,1541104660,10,interaction item image,188,IT,"Bolzano, Italy",mobile,,,,3.0
+195,195,56,56,1541104660,11,interaction item image,188,IT,"Bolzano, Italy",mobile,,,,3.0
+196,196,56,56,1541073724,1,clickout item,188,AT,"St Georgen im Attergau, Austria",mobile,,129881|36161|36249|464421|302607|36401|302622|926841|302477|461661|36159|155275|300502|458386|302377|1867621|248817|1509639|2561050|291707|1557741|1997383|1557541|96347|1599007,280|169|82|138|60|270|100|204|103|37|138|100|119|90|104|149|63|144|84|84|139|78|85|90|72,0.0
+197,197,56,56,1541034637,1,interaction item info,188,US,"Las Vegas, USA",mobile,,,,2.0
+198,198,56,56,1541034647,2,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+199,199,56,56,1541034647,3,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+200,200,56,56,1541034647,4,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+201,201,56,56,1541034647,5,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+202,202,56,56,1541034647,6,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+203,203,56,56,1541034647,7,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+204,204,56,56,1541034657,8,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+205,205,56,56,1541034657,9,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+206,206,56,56,1541034657,10,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+207,207,56,56,1541034657,11,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+208,208,56,56,1541034657,12,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+209,209,56,56,1541034657,13,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+210,210,56,56,1541034667,14,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+211,211,56,56,1541034667,15,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+212,212,56,56,1541034667,16,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+213,213,56,56,1541034667,17,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+214,214,56,56,1541034667,18,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+215,215,56,56,1541034667,19,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+216,216,56,56,1541034667,20,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+217,217,56,56,1541034667,21,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+218,218,56,56,1541034667,22,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+219,219,56,56,1541034667,23,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+220,220,56,56,1541034667,24,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+221,221,56,56,1541034677,25,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+222,222,56,56,1541034677,26,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+223,223,56,56,1541034677,27,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+224,224,56,56,1541034677,28,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+225,225,56,56,1541034677,29,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+226,226,56,56,1541034677,30,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+227,227,56,56,1541034677,31,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+228,228,56,56,1541034677,32,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+229,229,56,56,1541034677,33,interaction item image,188,US,"Las Vegas, USA",mobile,,,,3.0
+230,230,56,56,1541034697,34,clickout item,188,US,"Las Vegas, USA",mobile,,8561|8564|8568|8586|8588|102080|8613|55677|57049|58492|1238070|1810141|72426|8618|893925|129571|8602|8578|8544|8576|8599|8543|8567|8619|8582,17|37|29|35|97|23|31|62|31|82|52|170|109|97|124|31|69|29|46|177|63|62|18|47|29,0.0
+231,231,56,56,1541040524,1,search for destination,188,US,"Panama City, Panama",tablet,,,,
+232,232,56,56,1541040537,2,interaction item image,188,US,"Panama City, Panama",tablet,,,,3.0
+233,233,56,56,1541040552,3,interaction item image,188,US,"Panama City, Panama",tablet,,,,3.0
+234,234,56,56,1541040582,4,interaction item image,188,US,"Panama City, Panama",tablet,,,,3.0
+235,235,56,56,1541040620,5,interaction item image,188,US,"Panama City, Panama",tablet,,,,3.0
+236,236,56,56,1541040623,6,clickout item,188,US,"Panama City, Panama",tablet,,2603858|1765201|1844107|99445|99438|2219728|99439|3135583|2396864|99446|2527426|1572733|2529658|3842282|99448|8510198|3365566|1642853|2728330|2686097|2757598|489606|3176346|1258436|2277188,268|160|300|141|187|278|168|447|123|291|126|123|266|192|140|304|224|185|116|174|106|115|146|237|233,0.0
+237,237,56,56,1541093334,1,clickout item,188,FR,"Amsterdam, Netherlands",mobile,,921237|147262|42194|9051714|42109|42125|3583264|100650|2524766|42102|147253|42198|107767|42134|82373|42313|100632|8435844|42309|42227|137704|8909410|2174748|100603|42089,117|104|82|130|204|140|147|75|104|149|69|61|104|83|72|131|43|170|98|83|146|80|81|108|359,0.0
+238,238,56,56,1541093620,2,search for destination,188,FR,"Centre, USA",mobile,,,,
+239,239,56,56,1541044445,1,interaction item rating,188,BR,"Parnaíba, Brazil",mobile,,,,1.0
+240,240,56,56,1541044448,2,clickout item,188,BR,"Parnaíba, Brazil",mobile,,2035675|4095738|4933410|9167996,225|23|58|53,0.0
+241,241,56,56,1541044519,3,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+242,242,56,56,1541044519,4,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+243,243,56,56,1541044529,5,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+244,244,56,56,1541044529,6,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+245,245,56,56,1541044529,7,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+246,246,56,56,1541044529,8,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+247,247,56,56,1541044539,9,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+248,248,56,56,1541044539,10,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+249,249,56,56,1541044539,11,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+250,250,56,56,1541044539,12,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+251,251,56,56,1541044539,13,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+252,252,56,56,1541044539,14,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+253,253,56,56,1541044539,15,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+254,254,56,56,1541044539,16,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+255,255,56,56,1541044539,17,interaction item image,188,BR,"Parnaíba, Brazil",mobile,,,,3.0
+256,256,56,56,1541075782,1,search for destination,188,BR,"São Paulo, Brazil",desktop,,,,
+257,257,56,56,1541075784,2,search for destination,188,BR,"São Paulo, Brazil",desktop,,,,
+258,258,56,56,1541075804,3,change of sort order,188,BR,"São Paulo, Brazil",desktop,,,,
+259,259,56,56,1541075812,4,search for item,188,BR,"São Paulo, Brazil",desktop,,,,5.0
+260,260,56,56,1541075819,5,clickout item,188,BR,"São Paulo, Brazil",desktop,,104499|104710|104724|164677|960133|5816566|8740576|104938|1891457|104671|2454130|4343598|104771|397631|104986|479201|1501449|478216|104667|2627267|104599|522036|104770|104576|1689669,82|65|246|126|75|1004|35|75|64|175|43|80|159|79|466|98|71|86|80|83|78|48|56|71|41,0.0
+261,261,56,56,1541076076,6,clickout item,188,BR,"São Paulo, Brazil",desktop,,104499|104710|104724|164677|960133|5816566|8740576|104938|1891457|104671|2454130|4343598|104771|397631|104986|479201|1501449|478216|104667|2627267|104599|522036|104770|104576|1689669,82|65|246|126|75|1004|35|75|64|175|43|80|159|79|466|98|71|86|80|83|78|48|56|71|41,0.0
+262,262,56,56,1541094652,1,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+263,263,56,56,1541094652,2,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+264,264,56,56,1541094660,3,clickout item,188,BR,"Curitiba, Brazil",mobile,,9172186|6816668|4497388|1827505|2066390|2729196|106415|3241854|478026|4138580|1948335|478911|1911027|478731|477866|2078560|2849878|2717643|6299940|991495|3193788|2078488|479041|655676|2003215,11|26|24|20|20|22|19|10|22|26|18|24|24|28|25|15|15|16|40|23|22|20|21|35|43,0.0
+265,265,56,56,1541094730,4,interaction item info,188,BR,"Curitiba, Brazil",mobile,,,,2.0
+266,266,56,56,1541094740,5,interaction item rating,188,BR,"Curitiba, Brazil",mobile,,,,1.0
+267,267,56,56,1541094750,6,interaction item info,188,BR,"Curitiba, Brazil",mobile,,,,2.0
+268,268,56,56,1541094760,7,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+269,269,56,56,1541094760,8,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+270,270,56,56,1541094773,9,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+271,271,56,56,1541094773,10,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+272,272,56,56,1541094789,11,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+273,273,56,56,1541094789,12,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+274,274,56,56,1541094803,13,interaction item info,188,BR,"Curitiba, Brazil",mobile,,,,2.0
+275,275,56,56,1541094823,14,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+276,276,56,56,1541094824,15,filter selection,188,BR,"Curitiba, Brazil",mobile,Free WiFi (Combined),,,
+277,277,56,56,1541094833,16,interaction item image,188,BR,"Curitiba, Brazil",mobile,,,,3.0
+278,278,56,56,1541041830,1,search for poi,188,HK,"Seoul, South Korea",desktop,,,,
+279,279,56,56,1541041870,2,clickout item,188,HK,"Seoul, South Korea",desktop,,2802232|2733571|5477718|155374|155465|3549258|10091602|6508748|844336|4638538|3501450|390361|3501452|363046|2555968|5197174|4773608|3171165|3954788|6833196|5645106|475256|1627467|4871108|9033886,124|176|99|220|191|127|85|54|83|268|78|144|96|78|77|154|135|85|74|115|152|131|83|108|79,0.0
+280,280,56,56,1541041882,3,interaction item deals,188,HK,"Seoul, South Korea",desktop,,,,4.0
+281,281,56,56,1541044143,4,search for poi,188,HK,"Seoul, South Korea",desktop,,,,
+282,282,56,56,1541044151,5,clickout item,188,HK,"Seoul, South Korea",desktop,,3549258|155465|155374|363046|3954788|4773608|3501452|10091602|2733571|5477718|6800422|2855981|3499270|3825178|6625240|6893402|5645106|1627467|4638538|9386776|3171165|4871108|2727688|6523164|2267026,135|189|219|78|74|135|95|85|176|99|108|83|87|30|87|101|143|83|268|122|85|108|102|86|30,0.0
+283,283,56,56,1541044255,6,search for poi,188,HK,"Seoul, South Korea",desktop,,,,
+284,284,56,56,1541044256,7,search for poi,188,HK,"Seoul, South Korea",desktop,,,,
+285,285,56,56,1541044294,8,clickout item,188,HK,"Seoul, South Korea",desktop,,2736998|9386776|7016734|2867638|797516|5677278|3954788|475131|385916|5702366|2855981|1891895|363046|6625240|3549258|3126684|1394008|6893402|363061|155989|6800422|4773608|3499270|155465|3145303,249|122|110|81|81|42|74|109|62|91|83|104|78|87|135|67|59|101|223|110|108|135|87|189|72,0.0
+286,286,56,56,1541044324,9,clickout item,188,HK,"Seoul, South Korea",desktop,,2736998|9386776|7016734|2867638|797516|5677278|3954788|475131|385916|5702366|2855981|1891895|363046|6625240|3549258|3126684|1394008|6893402|363061|155989|6800422|4773608|3499270|155465|3145303,249|122|110|81|81|42|74|109|62|91|83|104|78|87|135|67|59|101|223|110|108|135|87|189|72,0.0
+287,287,56,56,1541044344,10,clickout item,188,HK,"Seoul, South Korea",desktop,,5109850|3505382|377811|155374|4849224|3501452|10091602|3367204|8143802|2733571|5477718|3136052|2267026|4638538|4454362|3825178|2727688|3899082|2738638|1627467|3171165|475206|3181886|475256|5645106,59|52|66|219|104|95|85|69|125|176|99|83|30|268|94|30|102|16|129|83|85|100|61|139|143,0.0
+288,288,56,56,1541044430,11,search for item,188,HK,"Seoul, South Korea",desktop,,,,5.0
+289,289,56,56,1541044437,12,interaction item deals,188,HK,"Seoul, South Korea",desktop,,,,4.0
+290,290,56,56,1541044489,13,clickout item,188,HK,"Seoul, South Korea",desktop,,5109850|3505382|377811|155374|4849224|3501452|10091602|3367204|8143802|2733571|5477718|3136052|2267026|4638538|4454362|3825178|2727688|3899082|2738638|1627467|3171165|475206|3181886|475256|5645106,59|52|66|219|104|95|85|69|125|176|99|83|30|268|94|30|102|16|129|83|85|100|61|139|143,0.0
+291,291,56,56,1541044551,14,search for item,188,HK,"Seoul, South Korea",desktop,,,,5.0
+292,292,56,56,1541044555,15,interaction item deals,188,HK,"Seoul, South Korea",desktop,,,,4.0
+293,293,56,56,1541044591,16,clickout item,188,HK,"Seoul, South Korea",desktop,,10091602|6625240|9386776|3954788|9776792|2802232|6893402|2855981|3501452|155374|155465|156621|363046|475101|1824477|2733571|2736998|3549258|4638538|5477718|8403088|8444298|7016734|1176048|4773608,85|87|122|74|79|123|101|83|95|219|189|254|78|93|112|176|249|135|268|99|190|145|110|93|135,0.0
+294,294,56,56,1541103373,1,interaction item image,188,UK,"Solihull, United Kingdom",desktop,,,,3.0
+295,295,56,56,1541103373,2,interaction item image,188,UK,"Solihull, United Kingdom",desktop,,,,3.0
+296,296,56,56,1541103482,3,clickout item,188,UK,"Solihull, United Kingdom",desktop,,47767|959737|3191226|1362528|1950827|1504481|2303554|1838303|1504415|2282346|3187638|7854780,104|57|79|91|76|80|68|63|91|63|65|86,0.0
+297,297,56,56,1541076394,1,clickout item,188,MX,"Veracruz Llave, Mexico",mobile,,43007|42365|42884|349051|489031|488961|1028438|3754668|1028442|9457620|1196746|3872766|42964|2038963|4018094|9603148|897983|9387652|2571851|2007837|4626178|349026|4174618|6869184|4012024,113|144|82|47|49|98|50|16|72|26|35|44|97|23|21|46|53|26|28|42|39|54|33|34|16,0.0
+298,298,56,56,1541077874,2,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+299,299,56,56,1541077874,3,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+300,300,56,56,1541077876,4,clickout item,188,MX,"Veracruz Llave, Mexico",mobile,,42365|42407|42884|42964|43007|349026|349051|489031|489171|897983|1141358|1972393|2007837|2030759|2038963|2123168|2561280|2564964|2571851|2636158|2896408|3429300|3478178|3484132|3872766,141|69|82|107|122|54|53|60|39|58|60|39|42|67|31|31|58|15|28|24|22|50|20|35|51,0.0
+301,301,56,56,1541078013,5,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+302,302,56,56,1541078013,6,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+303,303,56,56,1541078014,7,clickout item,188,MX,"Veracruz Llave, Mexico",mobile,,42365|42407|42884|42964|43007|349026|349051|489031|489171|897983|1141358|1972393|2007837|2030759|2038963|2123168|2561280|2564964|2571851|2636158|2896408|3429300|3478178|3484132|3872766,141|69|82|107|122|54|53|60|39|58|60|39|42|67|31|31|58|15|28|24|22|50|20|35|51,0.0
+304,304,56,56,1541078119,8,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+305,305,56,56,1541078119,9,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+306,306,56,56,1541078120,10,clickout item,188,MX,"Veracruz Llave, Mexico",mobile,,42365|42407|42884|42964|43007|349026|349051|489031|489171|897983|1141358|1972393|2007837|2030759|2038963|2123168|2561280|2564964|2571851|2636158|2896408|3429300|3478178|3484132|3872766,141|69|82|107|122|54|53|60|39|58|60|39|42|67|31|31|58|15|28|24|22|50|20|35|51,0.0
+307,307,56,56,1541078144,11,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+308,308,56,56,1541078144,12,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+309,309,56,56,1541078144,13,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+310,310,56,56,1541078144,14,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+311,311,56,56,1541078144,15,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+312,312,56,56,1541078144,16,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+313,313,56,56,1541078154,17,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+314,314,56,56,1541078154,18,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+315,315,56,56,1541078154,19,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+316,316,56,56,1541078154,20,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+317,317,56,56,1541078154,21,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+318,318,56,56,1541078154,22,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+319,319,56,56,1541078154,23,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+320,320,56,56,1541078154,24,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+321,321,56,56,1541078154,25,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+322,322,56,56,1541078154,26,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+323,323,56,56,1541078154,27,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+324,324,56,56,1541078160,28,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+325,325,56,56,1541078160,29,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+326,326,56,56,1541078160,30,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+327,327,56,56,1541078160,31,interaction item image,188,MX,"Veracruz Llave, Mexico",mobile,,,,3.0
+328,328,56,56,1541078293,32,clickout item,188,MX,"Veracruz Llave, Mexico",mobile,,43007|42884|932627|3496252|488961|42365|43100|349051|741136|897983|127738|42964|8766024|2631244|1314827|2319440|2569442|9309368|373811|6696574|1815905|1772827|3484132|43141|1028442,106|82|88|93|92|149|81|48|84|62|53|97|116|90|81|73|50|54|34|28|240|53|35|173|72,0.0
+329,329,56,56,1541046190,1,search for poi,188,HK,"Hong Kong, Hong Kong",desktop,,,,
+330,330,56,56,1541046258,2,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+331,331,56,56,1541046258,3,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+332,332,56,56,1541046268,4,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+333,333,56,56,1541046268,5,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+334,334,56,56,1541046268,6,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+335,335,56,56,1541046268,7,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+336,336,56,56,1541046268,8,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+337,337,56,56,1541046268,9,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+338,338,56,56,1541046278,10,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+339,339,56,56,1541046278,11,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+340,340,56,56,1541046278,12,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+341,341,56,56,1541046278,13,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+342,342,56,56,1541046288,14,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+343,343,56,56,1541046288,15,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+344,344,56,56,1541046288,16,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+345,345,56,56,1541046288,17,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+346,346,56,56,1541046288,18,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+347,347,56,56,1541046288,19,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+348,348,56,56,1541046288,20,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+349,349,56,56,1541046298,21,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+350,350,56,56,1541046298,22,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+351,351,56,56,1541046298,23,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+352,352,56,56,1541046298,24,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+353,353,56,56,1541046298,25,interaction item image,188,HK,"Hong Kong, Hong Kong",desktop,,,,3.0
+354,354,56,56,1541046298,26,interaction item info,188,HK,"Hong Kong, Hong Kong",desktop,,,,2.0
+355,355,56,56,1541078037,1,filter selection,188,RU,"Yekaterinburg, Russia",desktop,Free WiFi (Combined),,,
+356,356,56,56,1541078048,2,filter selection,188,RU,"Yekaterinburg, Russia",desktop,Free WiFi (Combined)|Breakfast Included,,,
+357,357,56,56,1541078081,3,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+358,358,56,56,1541078081,4,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+359,359,56,56,1541078091,5,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+360,360,56,56,1541078091,6,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+361,361,56,56,1541078091,7,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+362,362,56,56,1541078091,8,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+363,363,56,56,1541078166,9,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+364,364,56,56,1541078166,10,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+365,365,56,56,1541078166,11,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+366,366,56,56,1541078176,12,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+367,367,56,56,1541078176,13,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+368,368,56,56,1541078176,14,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+369,369,56,56,1541078176,15,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+370,370,56,56,1541078176,16,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+371,371,56,56,1541078176,17,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+372,372,56,56,1541078176,18,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+373,373,56,56,1541078176,19,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+374,374,56,56,1541078176,20,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+375,375,56,56,1541078176,21,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+376,376,56,56,1541078176,22,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+377,377,56,56,1541078186,23,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+378,378,56,56,1541078186,24,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+379,379,56,56,1541078186,25,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+380,380,56,56,1541078186,26,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+381,381,56,56,1541078196,27,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+382,382,56,56,1541078196,28,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+383,383,56,56,1541078196,29,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+384,384,56,56,1541078196,30,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+385,385,56,56,1541078206,31,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+386,386,56,56,1541078206,32,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+387,387,56,56,1541078222,33,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+388,388,56,56,1541078222,34,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+389,389,56,56,1541078222,35,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+390,390,56,56,1541078232,36,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+391,391,56,56,1541078232,37,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+392,392,56,56,1541078232,38,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+393,393,56,56,1541078242,39,interaction item rating,188,RU,"Yekaterinburg, Russia",desktop,,,,1.0
+394,394,56,56,1541078336,40,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+395,395,56,56,1541078336,41,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+396,396,56,56,1541078346,42,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+397,397,56,56,1541078346,43,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+398,398,56,56,1541078346,44,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+399,399,56,56,1541078346,45,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+400,400,56,56,1541078346,46,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+401,401,56,56,1541078346,47,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+402,402,56,56,1541078346,48,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+403,403,56,56,1541078346,49,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+404,404,56,56,1541078346,50,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+405,405,56,56,1541078346,51,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+406,406,56,56,1541078356,52,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+407,407,56,56,1541078356,53,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+408,408,56,56,1541078356,54,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+409,409,56,56,1541078356,55,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+410,410,56,56,1541078356,56,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+411,411,56,56,1541078356,57,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+412,412,56,56,1541078356,58,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+413,413,56,56,1541078356,59,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+414,414,56,56,1541078356,60,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+415,415,56,56,1541078356,61,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+416,416,56,56,1541078356,62,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+417,417,56,56,1541078366,63,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+418,418,56,56,1541078366,64,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+419,419,56,56,1541078366,65,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+420,420,56,56,1541078366,66,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+421,421,56,56,1541078366,67,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+422,422,56,56,1541078366,68,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+423,423,56,56,1541078366,69,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+424,424,56,56,1541078366,70,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+425,425,56,56,1541078366,71,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+426,426,56,56,1541078366,72,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+427,427,56,56,1541078366,73,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+428,428,56,56,1541078376,74,interaction item rating,188,RU,"Yekaterinburg, Russia",desktop,,,,1.0
+429,429,56,56,1541078403,75,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+430,430,56,56,1541078403,76,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+431,431,56,56,1541078413,77,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+432,432,56,56,1541078413,78,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+433,433,56,56,1541078413,79,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+434,434,56,56,1541078413,80,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+435,435,56,56,1541078413,81,interaction item info,188,RU,"Yekaterinburg, Russia",desktop,,,,2.0
+436,436,56,56,1541078423,82,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+437,437,56,56,1541078423,83,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+438,438,56,56,1541078423,84,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+439,439,56,56,1541078423,85,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+440,440,56,56,1541078423,86,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+441,441,56,56,1541078423,87,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+442,442,56,56,1541078423,88,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+443,443,56,56,1541078423,89,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+444,444,56,56,1541078433,90,interaction item rating,188,RU,"Yekaterinburg, Russia",desktop,,,,1.0
+445,445,56,56,1541078452,91,clickout item,188,RU,"Yekaterinburg, Russia",desktop,Free WiFi (Combined)|Breakfast Included,1045290|3135752|1372961|1369024|3384308|1371070|1191128|320366|2589366|1373129|1091180|3404929|5813690|939106|940286|3183138|1370286|384511|5127144|2740100|939964|1327476|3961622|939114|1370246,44|87|30|62|73|59|85|43|68|31|35|48|59|56|42|116|29|79|38|42|28|47|28|50|67,0.0
+446,446,56,56,1541078493,92,clickout item,188,RU,"Yekaterinburg, Russia",desktop,Free WiFi (Combined)|Breakfast Included,1045290|3135752|1372961|1369024|3384308|1371070|1191128|320366|2589366|1373129|1091180|3404929|5813690|939106|940286|3183138|1370286|384511|5127144|2740100|939964|1327476|3961622|939114|1370246,44|87|30|62|73|59|85|43|68|31|35|48|59|56|42|116|29|79|38|42|28|47|28|50|67,0.0
+447,447,56,56,1541078505,93,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+448,448,56,56,1541078505,94,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+449,449,56,56,1541078505,95,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+450,450,56,56,1541078505,96,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+451,451,56,56,1541078505,97,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+452,452,56,56,1541078505,98,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+453,453,56,56,1541078505,99,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+454,454,56,56,1541078515,100,interaction item rating,188,RU,"Yekaterinburg, Russia",desktop,,,,1.0
+455,455,56,56,1541079068,101,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+456,456,56,56,1541079068,102,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+457,457,56,56,1541079078,103,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+458,458,56,56,1541079078,104,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+459,459,56,56,1541079078,105,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+460,460,56,56,1541079078,106,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+461,461,56,56,1541079078,107,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+462,462,56,56,1541079078,108,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+463,463,56,56,1541079078,109,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+464,464,56,56,1541079078,110,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+465,465,56,56,1541079078,111,interaction item image,188,RU,"Yekaterinburg, Russia",desktop,,,,3.0
+466,466,56,56,1541079107,112,clickout item,188,RU,"Yekaterinburg, Russia",desktop,Free WiFi (Combined)|Breakfast Included,1045290|3135752|1372961|1369024|3384308|1371070|1191128|320366|2589366|1373129|1091180|3404929|5813690|939106|940286|3183138|1370286|384511|5127144|2740100|939964|1327476|3961622|939114|1370246,44|87|30|62|73|59|85|43|68|31|35|48|59|56|42|116|29|79|38|42|28|47|28|50|67,0.0
+467,467,56,56,1541079139,113,interaction item rating,188,RU,"Yekaterinburg, Russia",desktop,,,,1.0
+468,468,56,56,1541042711,1,clickout item,188,IN,"Bengaluru, India",tablet,,9164598|1400686|2216204|2817576|4775794|5684276|5845180|5963262|7171090|7171192|8137972|8315816|8505876|9787844|10057298|7359812|8421086|9344376|7132982|7043076|4564186|9481878|5824184|6902620|2394112,26|22|17|9|21|16|23|24|22|19|79|24|20|19|24|21|21|22|19|27|22|19|17|21|19,0.0
+469,469,56,56,1541113259,1,change of sort order,188,CO,"Las Vegas, USA",mobile,,,,
+470,470,56,56,1541113276,2,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel|Motel|Resort,,,
+471,471,56,56,1541113276,3,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel|Motel|Resort,,,
+472,472,56,56,1541113276,4,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel|Motel|Resort,,,
+473,473,56,56,1541113314,5,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel|Motel|Resort|Breakfast Included,,,
+474,474,56,56,1541113324,6,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel|Motel|Resort,,,
+475,475,56,56,1541113325,7,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel|Motel,,,
+476,476,56,56,1541113325,8,filter selection,188,CO,"Las Vegas, USA",mobile,Hotel,,,
+477,477,56,56,1541113329,9,filter selection,188,CO,"Las Vegas, USA",mobile,,,,
+478,478,56,56,1541113330,10,filter selection,188,CO,"Las Vegas, USA",mobile,Breakfast Included,,,
+479,479,56,56,1541113350,11,filter selection,188,CO,"Las Vegas, USA",mobile,Breakfast Included|Free WiFi (Combined),,,
+480,480,56,56,1541113352,12,filter selection,188,CO,"Las Vegas, USA",mobile,Breakfast Included,,,
+481,481,56,56,1541113355,13,filter selection,188,CO,"Las Vegas, USA",mobile,Breakfast Included,,,
+482,482,56,56,1541113360,14,filter selection,188,CO,"Las Vegas, USA",mobile,,,,
+483,483,56,56,1541113366,15,filter selection,188,CO,"Las Vegas, USA",mobile,Breakfast Included,,,
+484,484,56,56,1541113452,16,change of sort order,188,CO,"Las Vegas, USA",mobile,,,,
+485,485,56,56,1541113452,17,change of sort order,188,CO,"Las Vegas, USA",mobile,,,,
+486,486,56,56,1541113452,18,filter selection,188,CO,"Las Vegas, USA",mobile,Breakfast Included|Sort by Price,,,
+487,487,56,56,1541113474,19,clickout item,188,CO,"Las Vegas, USA",mobile,Breakfast Included|Sort by Price,69086|8533|925367|58949|61049|8581|8517|77520|8531|4169220|63051|397316|840726|2851635|1493341|8804492|62454|450176|102082|148954|8602|441851|63858|8516|8510248,59|66|78|86|87|90|90|92|93|98|99|100|106|108|111|111|112|120|122|123|125|136|138|140|142,0.0
+488,488,56,56,1541113509,20,clickout item,188,CO,"Las Vegas, USA",mobile,Breakfast Included|Sort by Price,69086|8533|925367|58949|61049|8581|8517|77520|8531|4169220|63051|397316|840726|2851635|1493341|8804492|62454|450176|102082|148954|8602|441851|63858|8516|8510248,59|66|78|86|87|90|90|92|93|98|99|100|106|108|111|111|112|120|122|123|125|136|138|140|142,0.0
+489,489,56,56,1541113521,21,interaction item info,188,CO,"Las Vegas, USA",mobile,,,,2.0
+490,490,56,56,1541113537,22,clickout item,188,CO,"Las Vegas, USA",mobile,Breakfast Included|Sort by Price,69086|8533|925367|58949|61049|8581|8517|77520|8531|4169220|63051|397316|840726|2851635|1493341|8804492|62454|450176|102082|148954|8602|441851|63858|8516|8510248,59|66|78|86|87|90|90|92|93|98|99|100|106|108|111|111|112|120|122|123|125|136|138|140|142,0.0
+491,491,56,56,1541046025,1,clickout item,188,US,"Las Vegas, USA",mobile,,8621|77124|8624|2851635|488501|1810141|72285|8589|8620|129571|8588|8572|8577|2793224|904927|102080|8518|72426|8563|57049|8599|32727|8568|8582|8586,1042|370|484|376|1031|871|228|310|255|202|193|353|239|394|232|192|276|294|207|236|301|493|237|260|185,0.0
+492,492,56,56,1541046141,2,clickout item,188,US,"Las Vegas, USA",mobile,,8621|77124|8624|2851635|488501|1810141|72285|8589|8620|129571|8588|8572|8577|2793224|904927|102080|8518|72426|8563|57049|8599|32727|8568|8582|8586,1042|370|484|376|1031|871|228|310|255|202|193|353|239|394|232|192|276|294|207|236|301|493|237|260|185,0.0
+493,493,56,56,1541046260,3,search for destination,188,US,"Tioga, USA",mobile,,,,
+494,494,56,56,1541046276,4,search for item,188,US,"Las Vegas, USA",mobile,,,,5.0
+495,495,56,56,1541046333,5,clickout item,188,US,"Las Vegas, USA",mobile,,8602|8568|8621|8561|57049|8564|8586|8577|8589|55677|77124|148957|893925|1217148|8588|2793224|8576|1238070|2282298|32727|8614|73555|567281|1094242|64376,265|125|176|85|152|122|141|136|114|112|188|1409|103|91|218|171|227|105|118|171|69|82|97|96|112,0.0
+496,496,56,56,1541094556,1,change of sort order,188,BR,"Rio de Janeiro, Brazil",mobile,,,,
+497,497,56,56,1541094594,2,change of sort order,188,BR,"Rio de Janeiro, Brazil",mobile,,,,
+498,498,56,56,1541094597,3,change of sort order,188,BR,"Rio de Janeiro, Brazil",mobile,,,,
+499,499,56,56,1541094597,4,filter selection,188,BR,"Rio de Janeiro, Brazil",mobile,Best Value,,,
+500,500,56,56,1541094648,5,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+501,501,56,56,1541094658,6,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+502,502,56,56,1541094678,7,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+503,503,56,56,1541094678,8,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+504,504,56,56,1541094698,9,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+505,505,56,56,1541094711,10,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+506,506,56,56,1541094720,11,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+507,507,56,56,1541094740,12,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+508,508,56,56,1541094750,13,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+509,509,56,56,1541094760,14,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+510,510,56,56,1541094770,15,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+511,511,56,56,1541094780,16,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+512,512,56,56,1541094801,17,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+513,513,56,56,1541094821,18,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+514,514,56,56,1541094828,19,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+515,515,56,56,1541094837,20,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+516,516,56,56,1541094847,21,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+517,517,56,56,1541094867,22,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+518,518,56,56,1541094877,23,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+519,519,56,56,1541094897,24,interaction item image,188,BR,"Rio de Janeiro, Brazil",mobile,,,,3.0
+520,520,56,56,1541094897,25,interaction item image,188,BR,"Rio de Janeiro, Brazil",mobile,,,,3.0
+521,521,56,56,1541094897,26,interaction item rating,188,BR,"Rio de Janeiro, Brazil",mobile,,,,1.0
+522,522,56,56,1541094897,27,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+523,523,56,56,1541094955,28,change of sort order,188,BR,"Rio de Janeiro, Brazil",mobile,,,,
+524,524,56,56,1541094965,29,change of sort order,188,BR,"Rio de Janeiro, Brazil",mobile,,,,
+525,525,56,56,1541094965,30,filter selection,188,BR,"Rio de Janeiro, Brazil",mobile,Sort by Price,,,
+526,526,56,56,1541094975,31,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+527,527,56,56,1541094985,32,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+528,528,56,56,1541094995,33,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+529,529,56,56,1541095019,34,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+530,530,56,56,1541095029,35,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+531,531,56,56,1541095039,36,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+532,532,56,56,1541095049,37,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+533,533,56,56,1541095059,38,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+534,534,56,56,1541095079,39,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+535,535,56,56,1541095089,40,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+536,536,56,56,1541095107,41,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+537,537,56,56,1541095127,42,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+538,538,56,56,1541095147,43,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+539,539,56,56,1541095202,44,clickout item,188,BR,"Rio de Janeiro, Brazil",mobile,Best Value,2303306|4041114|5830856|111534|109353|5723646|1208722|1255025|1670475|1055330|655691|2284048|104681|104809|130772|5822734|1668389|1771225|2342182|104800|1329092|9719914|2627243|3249257|109332,72|29|122|98|187|86|66|124|112|104|118|107|146|179|136|113|102|115|96|147|136|36|65|93|115,0.0
+540,540,56,56,1541095225,45,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+541,541,56,56,1541095236,46,interaction item info,188,BR,"Rio de Janeiro, Brazil",mobile,,,,2.0
+542,542,56,56,1541095238,47,clickout item,188,BR,"Rio de Janeiro, Brazil",mobile,Best Value,5016850|2068758|1771981|2303306|2733700|3189448|5849680|1179630|1319947|1770143|925941|926343|8428074|109331|829671|3906960|4094062|5723646|3904508|5196406|2891934|6015920|2085246|5493194|104900,70|71|71|72|75|75|78|78|80|80|80|81|81|83|84|85|86|86|87|88|89|90|91|91|91,0.0
+543,543,56,56,1541063238,1,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+544,544,56,56,1541063238,2,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+545,545,56,56,1541063248,3,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+546,546,56,56,1541063248,4,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+547,547,56,56,1541063248,5,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+548,548,56,56,1541063248,6,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+549,549,56,56,1541063248,7,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+550,550,56,56,1541063257,8,clickout item,188,ES,"Benalmadena, Spain",tablet,,1236209|131152|1322948|7500|439106|7499|95072|95346|121982|131104|40346|40384|40507|1207848|351631|97538|112244|970571|971919|94038|7485|15785|573846|82163|2342000,60|50|64|80|54|60|55|77|38|85|52|52|78|55|43|73|57|51|71|77|84|91|27|57|47,0.0
+551,551,56,56,1541063258,9,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+552,552,56,56,1541063258,10,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+553,553,56,56,1541063258,11,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+554,554,56,56,1541063258,12,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+555,555,56,56,1541063258,13,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+556,556,56,56,1541063258,14,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+557,557,56,56,1541063258,15,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+558,558,56,56,1541063258,16,interaction item image,188,ES,"Benalmadena, Spain",tablet,,,,3.0
+559,559,56,56,1541107296,1,search for destination,188,CL,"Púchov, Slovakia",desktop,,,,
+560,560,56,56,1541107298,2,search for destination,188,CL,"Púchov, Slovakia",desktop,,,,
+561,561,56,56,1541107362,3,filter selection,188,CL,"Púchov, Slovakia",desktop,5 Star,,,
+562,562,56,56,1541107369,4,filter selection,188,CL,"Púchov, Slovakia",desktop,5 Star|4 Star,,,
+563,563,56,56,1541107389,5,search for destination,188,CL,"Pucón, Chile",desktop,5 Star|4 Star,,,
+564,564,56,56,1541107700,6,clickout item,188,CL,"Pucón, Chile",desktop,5 Star|4 Star,327111|2217612|492491|505751|5101488|2061220|3190536|4063850|9328122|491631|1886421|2554668|3208988|491926|2085736|4011522|3941420|323821|2303546|3372562|2145712|3934596|2349080|4009748|964803,62|118|209|116|124|54|169|57|140|102|78|107|72|106|82|108|90|76|74|32|82|35|49|74|79,0.0
+565,565,56,56,1541109950,7,search for destination,188,CL,"Valdivia, Chile",desktop,,,,
+566,566,56,56,1541109983,8,filter selection,188,CL,"Valdivia, Chile",desktop,5 Star,,,
+567,567,56,56,1541109990,9,filter selection,188,CL,"Valdivia, Chile",desktop,5 Star|4 Star,,,
+568,568,56,56,1541110053,10,filter selection,188,CL,"Valdivia, Chile",desktop,4 Star,,,
+569,569,56,56,1541110057,11,filter selection,188,CL,"Valdivia, Chile",desktop,4 Star|3 Star,,,
+570,570,56,56,1541030660,1,search for destination,188,US,"Toronto, Canada",desktop,,,,
+571,571,56,56,1541030692,2,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES),,,
+572,572,56,56,1541030692,3,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES),,,
+573,573,56,56,1541030692,4,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES),,,
+574,574,56,56,1541030692,5,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES),,,
+575,575,56,56,1541030692,6,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES),,,
+576,576,56,56,1541030693,7,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star,,,
+577,577,56,56,1541030693,8,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star,,,
+578,578,56,56,1541030693,9,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star,,,
+579,579,56,56,1541030693,10,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star,,,
+580,580,56,56,1541030693,11,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star,,,
+581,581,56,56,1541030693,12,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star,,,
+582,582,56,56,1541030703,13,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+583,583,56,56,1541030703,14,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+584,584,56,56,1541030703,15,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+585,585,56,56,1541030703,16,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+586,586,56,56,1541030703,17,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+587,587,56,56,1541030703,18,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+588,588,56,56,1541030703,19,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|Hostal (ES)|4 Star|3 Star,,,
+589,589,56,56,1541030707,20,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Motel|Resort|4 Star|3 Star,,,
+590,590,56,56,1541030713,21,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Resort|4 Star|3 Star,,,
+591,591,56,56,1541030732,22,filter selection,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Resort|4 Star|3 Star|Focus on Distance,,,
+592,592,56,56,1541030732,23,search for poi,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Resort|4 Star|3 Star|Focus on Distance,,,
+593,593,56,56,1541030875,24,clickout item,188,US,"Toronto, Canada",desktop,5 Star|Hotel|Resort|4 Star|3 Star|Focus on Distance,6924590|43910|101019|44160|44872|44350|1835163|2287464|4458048|44874|7127216|44165|44566|1338430|16115|1914579|1472137|43623|44837|3053490|44351|1288262|9590036|4415266|844501,93|91|94|103|107|153|327|469|554|119|199|164|144|510|362|434|210|232|311|132|191|233|99|120|86,0.0
+594,594,56,56,1541094005,1,search for destination,188,US,"Charleston, USA",desktop,,,,
+595,595,56,56,1541094018,2,search for poi,188,US,"Charleston, USA",desktop,,,,
+596,596,56,56,1541094078,3,interaction item rating,188,US,"Charleston, USA",desktop,,,,1.0
+597,597,56,56,1541094088,4,interaction item image,188,US,"Charleston, USA",desktop,,,,3.0
+598,598,56,56,1541094088,5,interaction item image,188,US,"Charleston, USA",desktop,,,,3.0
+599,599,56,56,1541094091,6,clickout item,188,US,"Charleston, USA",desktop,,57884|72907|1646291|65531|59312|67945|75618|5125126|74227|79218|3753160|63908|3477818|67946|373246|2219016|71822|56425|976403|1333554|3522284|71222|7811938|58629|66354,264|133|157|227|104|148|121|193|77|174|136|157|227|236|157|96|138|227|174|253|236|129|139|161|210,0.0
+600,600,56,56,1541084324,1,search for destination,188,CH,"Mühldorf am Inn, Germany",desktop,,,,
+601,601,56,56,1541084326,2,search for destination,188,CH,"Mühldorf am Inn, Germany",desktop,,,,
+602,602,56,56,1541084343,3,filter selection,188,CH,"Mühldorf am Inn, Germany",desktop,Free WiFi (Combined),,,
+603,603,56,56,1541084353,4,filter selection,188,CH,"Mühldorf am Inn, Germany",desktop,Free WiFi (Combined)|Restaurant,,,
+604,604,56,56,1541084370,5,clickout item,188,CH,"Mühldorf am Inn, Germany",desktop,Free WiFi (Combined)|Restaurant,137842|162011|52319|5170834|9332768|6398694|1830581|157418|5608302|1073008|8156060|162013|4127242|2049255|1240136|8295690,59|95|102|109|60|61|119|65|85|85|80|65|54|46|99|72,0.0
+605,605,56,56,1541084725,6,clickout item,188,CH,"Mühldorf am Inn, Germany",desktop,Free WiFi (Combined)|Restaurant,137842|162011|52319|5170834|9332768|6398694|1830581|157418|5608302|1073008|8156060|162013|4127242|2049255|1240136|8295690,59|95|102|109|60|61|119|65|85|85|80|65|54|46|99|72,0.0
+606,606,56,56,1541085062,7,clickout item,188,CH,"Mühldorf am Inn, Germany",desktop,,162011|52319|5170834|9332768|6398694|1830581|5608302|157418|1073008|8156060|162013|4127242|2049255|1240136|137842|8295690,109|110|109|90|94|149|85|108|115|91|90|79|75|167|105|87,0.0
+607,607,56,56,1541062145,1,clickout item,188,BE,"Voeren, Belgium",mobile,,1204316|2140652|107674|1072440|2555490|2181166|3998692|85487|105874|2432674|107254|150655|85478|5625858|150657|1559879|7291762|1145073|6226634|107859|1143641|2176154|2590956|1151369|105913,100|84|49|80|53|100|77|99|111|95|99|82|174|75|90|38|108|90|42|52|90|83|70|80|122,0.0
+608,608,56,56,1541094924,1,clickout item,188,AR,"Merlo, Argentina",desktop,,6337814|4491544|554226|1511925|6821484|9937158|1407582|2708038|2839168|5201368|3207780|6820080|1296397|2673698|2685579|1409157|4502912|4903632|3794318|6037360|7292912|4299546|1404640|2680462|2685454,115|86|110|103|61|75|76|55|79|84|89|90|42|80|64|52|87|58|54|71|70|67|44|39|75,0.0
+609,609,56,56,1541096426,2,interaction item info,188,AR,"Merlo, Argentina",desktop,,,,2.0
+610,610,56,56,1541098014,3,interaction item rating,188,AR,"Merlo, Argentina",desktop,,,,1.0
+611,611,56,56,1541098014,4,interaction item rating,188,AR,"Merlo, Argentina",desktop,,,,1.0
+612,612,56,56,1541098107,5,interaction item rating,188,AR,"Merlo, Argentina",desktop,,,,1.0
+613,613,56,56,1541098107,6,interaction item rating,188,AR,"Merlo, Argentina",desktop,,,,1.0
+614,614,56,56,1541098117,7,interaction item image,188,AR,"Merlo, Argentina",desktop,,,,3.0
+615,615,56,56,1541098117,8,interaction item image,188,AR,"Merlo, Argentina",desktop,,,,3.0
+616,616,56,56,1541098127,9,interaction item image,188,AR,"Merlo, Argentina",desktop,,,,3.0
+617,617,56,56,1541098127,10,interaction item image,188,AR,"Merlo, Argentina",desktop,,,,3.0
+618,618,56,56,1541098149,11,interaction item image,188,AR,"Merlo, Argentina",desktop,,,,3.0
+619,619,56,56,1541098149,12,interaction item image,188,AR,"Merlo, Argentina",desktop,,,,3.0
+620,620,56,56,1541085782,1,interaction item image,188,NL,"Souillac, France",desktop,,,,3.0
+621,621,56,56,1541085782,2,interaction item image,188,NL,"Souillac, France",desktop,,,,3.0
+622,622,56,56,1541085809,3,interaction item image,188,NL,"Souillac, France",desktop,,,,3.0
+623,623,56,56,1541085809,4,interaction item image,188,NL,"Souillac, France",desktop,,,,3.0
+624,624,56,56,1541085809,5,interaction item image,188,NL,"Souillac, France",desktop,,,,3.0
+625,625,56,56,1541085809,6,interaction item image,188,NL,"Souillac, France",desktop,,,,3.0
+626,626,56,56,1541085821,7,clickout item,188,NL,"Souillac, France",desktop,,1556793|434856|3206344|49682|1358429|658821|10191572|323311|1887509|1092524|3862110|3204276|3222008|2181004|951431|4769324|1385657|141415|454366|2577656|8286110|1142289|499936|4655218|1649973,64|83|65|82|63|71|96|105|60|87|66|62|85|65|97|1134|51|132|65|77|1732|102|112|141|67,0.0
+627,627,56,56,1541085912,8,clickout item,188,NL,"Souillac, France",desktop,,1556793|434856|3206344|49682|1358429|658821|10191572|323311|1887509|1092524|3862110|3204276|3222008|2181004|951431|4769324|1385657|141415|454366|2577656|8286110|1142289|499936|4655218|1649973,64|83|65|82|63|71|96|105|60|87|66|62|85|65|97|1134|51|132|65|77|1732|102|112|141|67,0.0
+628,628,56,56,1541077203,1,clickout item,188,CO,"Cancun, Mexico",mobile,,1956323|34429|100227|34410|5963164|34464|34423|152154|3066062|684821|34467|42378|2165018|100226|100216|32674|42349|2753406|100224|2595990|1863185|100211|100214|34449|348941,185|403|108|200|162|67|193|163|446|194|305|102|299|275|297|270|40|87|124|111|69|26|221|259|102,0.0
+629,629,56,56,1541092897,1,clickout item,188,US,"Wheeler, USA",mobile,,567136|1039152|2034391|1019811|4233810|6549318|6626518|1260317|1260320|9563344|5479400|2686061|3583142|2467880|6539062|9570292|1029932|354806|1333868|8409860|1402351|10448742|1283034|10784464|8169110,113|121|104|53|113|127|153|63|75|105|147|55|60|61|46|87|48|78|69|148|113|52|57|140|349,0.0
+630,630,56,56,1541083741,1,search for destination,188,US,"Charlottesville, USA",mobile,,,,
+631,631,56,56,1541083803,2,change of sort order,188,US,"Charlottesville, USA",mobile,,,,
+632,632,56,56,1541083805,3,change of sort order,188,US,"Charlottesville, USA",mobile,,,,
+633,633,56,56,1541083805,4,filter selection,188,US,"Charlottesville, USA",mobile,Sort by Price,,,
+634,634,56,56,1541083819,5,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+635,635,56,56,1541083819,6,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+636,636,56,56,1541083829,7,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+637,637,56,56,1541083829,8,interaction item rating,188,US,"Charlottesville, USA",mobile,,,,1.0
+638,638,56,56,1541083829,9,interaction item info,188,US,"Charlottesville, USA",mobile,,,,2.0
+639,639,56,56,1541083839,10,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+640,640,56,56,1541083839,11,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+641,641,56,56,1541083839,12,interaction item info,188,US,"Charlottesville, USA",mobile,,,,2.0
+642,642,56,56,1541083842,13,clickout item,188,US,"Charlottesville, USA",mobile,Sort by Price,71497|76069|3795892|77840|71716|59678|76568|152206|72903|72902|1184110|75615|69963|71821|71388|73413|6228586|2866586|78481|3137146|9819416|65069|9976172|75614|10867616,52|58|61|65|68|72|73|78|79|80|82|88|90|90|91|93|97|100|101|101|106|108|108|113|127,0.0
+643,643,56,56,1541083849,14,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+644,644,56,56,1541083849,15,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+645,645,56,56,1541083849,16,interaction item info,188,US,"Charlottesville, USA",mobile,,,,2.0
+646,646,56,56,1541083885,17,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+647,647,56,56,1541083885,18,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+648,648,56,56,1541083885,19,clickout item,188,US,"Charlottesville, USA",mobile,Sort by Price,71497|76069|3795892|77840|71716|59678|76568|152206|72903|72902|1184110|75615|69963|71821|71388|73413|6228586|2866586|78481|3137146|9819416|65069|9976172|75614|10867616,52|58|61|65|68|72|73|78|79|80|82|88|90|90|91|93|97|100|101|101|106|108|108|113|127,0.0
+649,649,56,56,1541083920,20,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+650,650,56,56,1541083920,21,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+651,651,56,56,1541083928,22,clickout item,188,US,"Charlottesville, USA",mobile,Sort by Price,71497|76069|3795892|77840|71716|59678|76568|152206|72903|72902|1184110|75615|69963|71821|71388|73413|6228586|2866586|78481|3137146|9819416|65069|9976172|75614|10867616,52|58|61|65|68|72|73|78|79|80|82|88|90|90|91|93|97|100|101|101|106|108|108|113|127,0.0
+652,652,56,56,1541083930,23,interaction item info,188,US,"Charlottesville, USA",mobile,,,,2.0
+653,653,56,56,1541083930,24,interaction item deals,188,US,"Charlottesville, USA",mobile,,,,4.0
+654,654,56,56,1541083971,25,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+655,655,56,56,1541083971,26,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+656,656,56,56,1541083981,27,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+657,657,56,56,1541083981,28,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+658,658,56,56,1541083981,29,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+659,659,56,56,1541083981,30,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+660,660,56,56,1541083981,31,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+661,661,56,56,1541083981,32,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+662,662,56,56,1541083981,33,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+663,663,56,56,1541083981,34,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+664,664,56,56,1541083981,35,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+665,665,56,56,1541083981,36,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+666,666,56,56,1541083981,37,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+667,667,56,56,1541083981,38,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+668,668,56,56,1541083981,39,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+669,669,56,56,1541083981,40,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+670,670,56,56,1541083981,41,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+671,671,56,56,1541083981,42,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+672,672,56,56,1541083991,43,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+673,673,56,56,1541083991,44,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+674,674,56,56,1541083991,45,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+675,675,56,56,1541083991,46,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+676,676,56,56,1541083991,47,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+677,677,56,56,1541083991,48,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+678,678,56,56,1541083991,49,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+679,679,56,56,1541083991,50,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+680,680,56,56,1541083991,51,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+681,681,56,56,1541083991,52,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+682,682,56,56,1541083991,53,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+683,683,56,56,1541083991,54,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+684,684,56,56,1541083991,55,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+685,685,56,56,1541083991,56,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+686,686,56,56,1541083991,57,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+687,687,56,56,1541083991,58,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+688,688,56,56,1541083991,59,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+689,689,56,56,1541083991,60,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+690,690,56,56,1541083991,61,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+691,691,56,56,1541083991,62,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+692,692,56,56,1541083991,63,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+693,693,56,56,1541083991,64,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+694,694,56,56,1541083991,65,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+695,695,56,56,1541084001,66,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+696,696,56,56,1541084001,67,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+697,697,56,56,1541084001,68,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+698,698,56,56,1541084001,69,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+699,699,56,56,1541084001,70,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+700,700,56,56,1541084001,71,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+701,701,56,56,1541084001,72,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+702,702,56,56,1541084001,73,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+703,703,56,56,1541084001,74,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+704,704,56,56,1541084001,75,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+705,705,56,56,1541084001,76,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+706,706,56,56,1541084001,77,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+707,707,56,56,1541084001,78,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+708,708,56,56,1541084001,79,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+709,709,56,56,1541084001,80,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+710,710,56,56,1541084001,81,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+711,711,56,56,1541084001,82,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+712,712,56,56,1541084001,83,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+713,713,56,56,1541084001,84,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+714,714,56,56,1541084001,85,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+715,715,56,56,1541084001,86,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+716,716,56,56,1541084001,87,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+717,717,56,56,1541084001,88,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+718,718,56,56,1541084011,89,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+719,719,56,56,1541084011,90,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+720,720,56,56,1541084011,91,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+721,721,56,56,1541084011,92,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+722,722,56,56,1541084011,93,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+723,723,56,56,1541084011,94,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+724,724,56,56,1541084011,95,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+725,725,56,56,1541084011,96,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+726,726,56,56,1541084011,97,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+727,727,56,56,1541084011,98,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+728,728,56,56,1541084011,99,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+729,729,56,56,1541084011,100,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+730,730,56,56,1541084011,101,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+731,731,56,56,1541084011,102,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+732,732,56,56,1541084019,103,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+733,733,56,56,1541084019,104,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+734,734,56,56,1541084019,105,interaction item image,188,US,"Charlottesville, USA",mobile,,,,3.0
+735,735,56,56,1541048737,1,search for item,188,CA,"Chiang Mai, Thailand",mobile,,,,5.0
+736,736,56,56,1541048744,2,filter selection,188,CA,"Chiang Mai, Thailand",mobile,Excellent Rating,,,
+737,737,56,56,1541048760,3,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+738,738,56,56,1541048760,4,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+739,739,56,56,1541048760,5,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+740,740,56,56,1541048770,6,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+741,741,56,56,1541048770,7,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+742,742,56,56,1541048770,8,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+743,743,56,56,1541048770,9,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+744,744,56,56,1541048770,10,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+745,745,56,56,1541048770,11,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+746,746,56,56,1541048770,12,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+747,747,56,56,1541048770,13,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+748,748,56,56,1541048770,14,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+749,749,56,56,1541048770,15,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+750,750,56,56,1541048770,16,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+751,751,56,56,1541048770,17,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+752,752,56,56,1541048770,18,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+753,753,56,56,1541048770,19,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+754,754,56,56,1541048770,20,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+755,755,56,56,1541048770,21,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+756,756,56,56,1541048770,22,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+757,757,56,56,1541048770,23,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+758,758,56,56,1541048770,24,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+759,759,56,56,1541048770,25,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+760,760,56,56,1541048780,26,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+761,761,56,56,1541048780,27,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+762,762,56,56,1541048780,28,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+763,763,56,56,1541048780,29,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+764,764,56,56,1541048780,30,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+765,765,56,56,1541048780,31,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+766,766,56,56,1541048780,32,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+767,767,56,56,1541048780,33,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+768,768,56,56,1541048780,34,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+769,769,56,56,1541048780,35,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+770,770,56,56,1541048780,36,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+771,771,56,56,1541048780,37,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+772,772,56,56,1541048780,38,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+773,773,56,56,1541048780,39,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+774,774,56,56,1541048780,40,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+775,775,56,56,1541048780,41,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+776,776,56,56,1541048780,42,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+777,777,56,56,1541048780,43,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+778,778,56,56,1541048780,44,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+779,779,56,56,1541048780,45,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+780,780,56,56,1541048780,46,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+781,781,56,56,1541048780,47,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+782,782,56,56,1541048780,48,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+783,783,56,56,1541048780,49,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+784,784,56,56,1541048780,50,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+785,785,56,56,1541048780,51,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+786,786,56,56,1541048780,52,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+787,787,56,56,1541048780,53,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+788,788,56,56,1541048780,54,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+789,789,56,56,1541048780,55,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+790,790,56,56,1541048780,56,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+791,791,56,56,1541048780,57,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+792,792,56,56,1541048803,58,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+793,793,56,56,1541048803,59,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+794,794,56,56,1541048803,60,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+795,795,56,56,1541048813,61,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+796,796,56,56,1541048813,62,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+797,797,56,56,1541048813,63,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+798,798,56,56,1541048813,64,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+799,799,56,56,1541048813,65,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+800,800,56,56,1541048813,66,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+801,801,56,56,1541048813,67,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+802,802,56,56,1541048813,68,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+803,803,56,56,1541048813,69,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+804,804,56,56,1541048813,70,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+805,805,56,56,1541048813,71,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+806,806,56,56,1541048813,72,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+807,807,56,56,1541048813,73,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+808,808,56,56,1541048813,74,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+809,809,56,56,1541048813,75,interaction item image,188,CA,"Chiang Mai, Thailand",mobile,,,,3.0
+810,810,56,56,1541084519,1,clickout item,188,BR,"São Paulo, Brazil",mobile,,104912|104724|687781|164677|104813|104743|104539|104574|104803|104588|104686|104814|104515|478966|478216|104675|153725|104641|1076986|104537|104671|104818|104607|104710|104777,75|91|60|92|397|78|80|57|195|90|54|69|92|80|102|92|99|254|71|56|53|72|78|50|71,0.0
+811,811,56,56,1541091759,1,search for poi,188,UK,"Marne-la-Vallée, France",tablet,,,,
+812,812,56,56,1541091862,2,clickout item,188,UK,"Marne-la-Vallée, France",tablet,,1473305|14088|883697|341666|149255|14082|13435|231736|99932|5005660|10487598|8461916|1161413|4349952|6543240|565196|201761|99710|7048302|9598256|15067|10388196|556686|99983|99714,151|103|119|80|172|128|141|109|250|102|166|102|61|90|83|110|54|107|238|93|127|232|202|57|65,0.0
+813,813,56,56,1541082021,1,interaction item image,188,BR,"Maceió, Brazil",desktop,,,,3.0
+814,814,56,56,1541082021,2,interaction item image,188,BR,"Maceió, Brazil",desktop,,,,3.0
+815,815,56,56,1541082071,3,clickout item,188,BR,"Maceió, Brazil",desktop,,1087808|781721|1830957|1829443|1652499|132249|1321131|7773394|5843300|8208828|2042817|3247834|5889670|111530|2097974|2637107|478651|3523314|5444690|9336856|1343166|1999251|2035773|3502866|1243358,54|51|36|52|53|112|104|253|41|23|85|86|144|116|105|83|94|72|36|78|186|45|68|131|100,0.0
+816,816,56,56,1541092286,1,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+817,817,56,56,1541092286,2,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+818,818,56,56,1541092296,3,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+819,819,56,56,1541092296,4,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+820,820,56,56,1541092296,5,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+821,821,56,56,1541092296,6,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+822,822,56,56,1541092296,7,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+823,823,56,56,1541092296,8,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+824,824,56,56,1541092296,9,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+825,825,56,56,1541092296,10,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+826,826,56,56,1541092296,11,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+827,827,56,56,1541092306,12,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+828,828,56,56,1541092306,13,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+829,829,56,56,1541092306,14,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+830,830,56,56,1541092306,15,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+831,831,56,56,1541092320,16,clickout item,188,FR,"Saint-Valery-sur-Somme, France",desktop,,10441982|6701784|446921|50236|6910372|9706566|10547804,192|179|227|139|320|375|135,0.0
+832,832,56,56,1541092497,17,clickout item,188,FR,"Saint-Valery-sur-Somme, France",desktop,,10441982|6701784|446921|50236|6910372|9706566|10547804,192|179|227|139|320|375|135,0.0
+833,833,56,56,1541092540,18,clickout item,188,FR,"Saint-Valery-sur-Somme, France",desktop,,10441982|6701784|446921|50236|6910372|9706566|10547804,192|179|227|139|320|375|135,0.0
+834,834,56,56,1541092600,19,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+835,835,56,56,1541092600,20,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+836,836,56,56,1541092610,21,interaction item deals,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,4.0
+837,837,56,56,1541093189,22,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+838,838,56,56,1541093189,23,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+839,839,56,56,1541093189,24,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+840,840,56,56,1541093189,25,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+841,841,56,56,1541093199,26,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+842,842,56,56,1541093199,27,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+843,843,56,56,1541093199,28,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+844,844,56,56,1541093199,29,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+845,845,56,56,1541093199,30,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+846,846,56,56,1541093209,31,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+847,847,56,56,1541093209,32,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+848,848,56,56,1541093209,33,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+849,849,56,56,1541093209,34,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+850,850,56,56,1541093219,35,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+851,851,56,56,1541093219,36,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+852,852,56,56,1541093219,37,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+853,853,56,56,1541093219,38,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+854,854,56,56,1541093219,39,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+855,855,56,56,1541093219,40,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+856,856,56,56,1541093219,41,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+857,857,56,56,1541093219,42,interaction item image,188,FR,"Saint-Valery-sur-Somme, France",desktop,,,,3.0
+858,858,56,56,1541106884,1,clickout item,188,JP,"Fukuoka, Japan",tablet,,494856|1173256|1257025|428616|818216|364311|693416|5757788|1007631|9307244|367721|9283382|500261|6797192|365886|1007607|394486|2111820|9317768|2217058|428596|2786060|528896|1947889|7161188,399|341|245|548|294|324|341|324|261|296|427|248|273|285|387|286|310|277|309|317|387|262|253|310|418,0.0
+859,859,56,56,1541093209,1,search for destination,188,RU,"St Petersburg, Russia",mobile,,,,
+860,860,56,56,1541093260,2,filter selection,188,RU,"St Petersburg, Russia",mobile,Focus on Distance,,,
+861,861,56,56,1541093260,3,search for poi,188,RU,"St Petersburg, Russia",mobile,Focus on Distance,,,
+862,862,56,56,1541093270,4,filter selection,188,RU,"St Petersburg, Russia",mobile,Focus on Distance,,,
+863,863,56,56,1541093270,5,search for destination,188,RU,"St Petersburg, Russia",mobile,Focus on Distance,,,
+864,864,56,56,1541093303,6,filter selection,188,RU,"St Petersburg, Russia",mobile,Focus on Distance|Pet Friendly,,,
+865,865,56,56,1541093323,7,interaction item info,188,RU,"St Petersburg, Russia",mobile,,,,2.0
+866,866,56,56,1541093323,8,interaction item deals,188,RU,"St Petersburg, Russia",mobile,,,,4.0
+867,867,56,56,1541093380,9,interaction item image,188,RU,"St Petersburg, Russia",mobile,,,,3.0
+868,868,56,56,1541093380,10,interaction item image,188,RU,"St Petersburg, Russia",mobile,,,,3.0
+869,869,56,56,1541093384,11,clickout item,188,RU,"St Petersburg, Russia",mobile,Focus on Distance|Pet Friendly,6013956|4013438|2683272|5826662|1937615|2612616|3210736|4047156|1884171|3988338|4051774|2856112|6098126|3062592|1248743|2153308|3230264|4014092|4512182|3195179|1144272|2710422|2061766|5126400|1664715,14|15|13|13|12|13|16|15|11|16|15|15|11|13|16|15|14|14|16|15|16|10|13|13|14,0.0
+870,870,56,56,1541093387,12,clickout item,188,RU,"St Petersburg, Russia",mobile,Focus on Distance|Pet Friendly,6013956|4013438|2683272|5826662|1937615|2612616|3210736|4047156|1884171|3988338|4051774|2856112|6098126|3062592|1248743|2153308|3230264|4014092|4512182|3195179|1144272|2710422|2061766|5126400|1664715,14|15|13|13|12|13|16|15|11|16|15|15|11|13|16|15|14|14|16|15|16|10|13|13|14,0.0
+871,871,56,56,1541093390,13,clickout item,188,RU,"St Petersburg, Russia",mobile,Focus on Distance|Pet Friendly,6013956|4013438|2683272|5826662|1937615|2612616|3210736|4047156|1884171|3988338|4051774|2856112|6098126|3062592|1248743|2153308|3230264|4014092|4512182|3195179|1144272|2710422|2061766|5126400|1664715,14|15|13|13|12|13|16|15|11|16|15|15|11|13|16|15|14|14|16|15|16|10|13|13|14,0.0
+872,872,56,56,1541066633,1,search for poi,188,JP,"Fukuoka, Japan",desktop,,,,
+873,873,56,56,1541066834,2,filter selection,188,JP,"Fukuoka, Japan",desktop,Breakfast Included,,,
+874,874,56,56,1541066862,3,clickout item,188,JP,"Fukuoka, Japan",desktop,Breakfast Included|Focus on Distance,834471|2111820|693416|500261|977545|8393940|5757788|528891|2188042|2161654|2106170|1789849|1257025|1007647|1007637|2768172|977525|4356996|9996602|9307244|943929|7128186|7383510|5614062|10638726,89|136|139|105|110|131|144|69|109|137|118|125|97|105|95|138|148|95|117|149|144|97|148|99|139,0.0
+875,875,56,56,1541067004,4,clickout item,188,JP,"Fukuoka, Japan",desktop,Breakfast Included|Focus on Distance,834471|2111820|693416|500261|977545|8393940|5757788|528891|2188042|2161654|2106170|1789849|1257025|1007647|1007637|2768172|977525|4356996|9996602|9307244|943929|7128186|7383510|5614062|10638726,89|136|139|105|110|131|144|69|109|137|118|125|97|105|95|138|148|95|117|149|144|97|148|99|139,0.0
+876,876,56,56,1541067077,5,clickout item,188,JP,"Fukuoka, Japan",desktop,Breakfast Included|Focus on Distance,2111820|500261|2188042|834471|1173256|9317768|693416|818216|977503|1007605|977545|428616|428596|6797192|1007607|8393940|494856|5757788|1007701|367721|2161654|977525|364311|364061|528891,136|105|109|89|278|178|139|547|214|166|110|393|200|173|172|131|254|144|177|349|137|148|178|318|69,0.0
+877,877,56,56,1541067162,6,clickout item,188,JP,"Fukuoka, Japan",desktop,Breakfast Included|Focus on Distance,2111820|500261|2188042|1007631|1949345|834471|1173256|9317768|693416|818216|977503|1007605|977545|428616|428596|6797192|1007607|8393940|494856|5757788|1007701|367721|2161654|977525|364311,136|105|109|154|156|89|278|178|139|547|214|166|110|393|200|173|172|131|254|144|177|349|137|148|178,0.0
+878,878,56,56,1541067384,1,search for destination,188,IE,"Derry-Londonderry, United Kingdom",desktop,,,,
+879,879,56,56,1541067385,2,search for destination,188,IE,"Derry-Londonderry, United Kingdom",desktop,,,,
+880,880,56,56,1541067412,3,clickout item,188,IE,"Derry-Londonderry, United Kingdom",desktop,,123395|46453|46980|373726|46711|7305308|152931|7982436|2294626|1389764|1355056|3527364|47693|519991|2861382|5074040|9412876|1078786|2781680|8773546|2901342|2852894|1132863|9973046|1390048,111|174|85|90|73|85|96|159|147|102|78|74|153|72|112|311|102|85|67|136|108|51|85|67|93,0.0
+881,881,56,56,1541081868,1,clickout item,188,CO,"Puerto Triunfo, Colombia",tablet,,6942144|9470628|1216672|9451794|9466884|7122752|9448308|9634856|8180290|9602190,83|107|74|66|37|38|74|51|16|88,0.0
+882,882,56,56,1541058745,1,search for poi,188,AU,"Sydney, Australia",desktop,,,,
+883,883,56,56,1541058813,2,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+884,884,56,56,1541058813,3,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+885,885,56,56,1541058819,4,clickout item,188,AU,"Sydney, Australia",desktop,,919441|3826196|109034|109039|1188982|1239890|666841|6324354|2438560|880195|2837236|554001|1425217|1395059|3198256|7259728|109004|1746035|931571|1622401|1253720|799206|9711560|2922318|596891,165|95|169|152|71|135|321|50|226|88|63|69|75|62|53|146|180|87|63|69|88|85|155|69|72,0.0
+886,886,56,56,1541058823,5,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+887,887,56,56,1541058823,6,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+888,888,56,56,1541058823,7,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+889,889,56,56,1541058823,8,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+890,890,56,56,1541058823,9,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+891,891,56,56,1541058823,10,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+892,892,56,56,1541058823,11,interaction item image,188,AU,"Sydney, Australia",desktop,,,,3.0
+893,893,56,56,1541058823,12,clickout item,188,AU,"Sydney, Australia",desktop,,919441|3826196|109034|109039|1188982|1239890|666841|6324354|2438560|880195|2837236|554001|1425217|1395059|3198256|7259728|109004|1746035|931571|1622401|1253720|799206|9711560|2922318|596891,165|95|169|152|71|135|321|50|226|88|63|69|75|62|53|146|180|87|63|69|88|85|155|69|72,0.0
+894,894,56,56,1541059101,13,interaction item rating,188,AU,"Sydney, Australia",desktop,,,,1.0
+895,895,56,56,1541059111,14,interaction item info,188,AU,"Sydney, Australia",desktop,,,,2.0
+896,896,56,56,1541059236,15,clickout item,188,AU,"Sydney, Australia",desktop,,919441|3826196|109034|109039|1188982|1239890|666841|6324354|2438560|880195|2837236|554001|1425217|1395059|3198256|7259728|109004|1746035|931571|1622401|1253720|799206|9711560|2922318|596891,165|95|169|152|71|135|321|50|226|88|63|69|75|62|53|146|180|87|63|69|88|85|155|69|72,0.0
+897,897,56,56,1541082053,1,interaction item image,188,BR,"Aquiraz, Brazil",mobile,,,,3.0
+898,898,56,56,1541082053,2,interaction item image,188,BR,"Aquiraz, Brazil",mobile,,,,3.0
+899,899,56,56,1541082053,3,clickout item,188,BR,"Aquiraz, Brazil",mobile,,929707|104773|104802|1883779|5032060|8751936|104867|2706630|109319|127102|8987400|3387030|722191|957851|2063284|4361038|104939|1162971|452021|104888|104889|109320|104649|7331944,40|105|71|312|72|29|60|45|81|89|49|63|65|49|29|26|150|53|57|63|59|66|53|29,0.0
+900,900,56,56,1541088730,1,clickout item,188,SE,"Hudiksvall, Sweden",desktop,,2467772|226906|41426|226911|7110436|7095524|2642096|2174484,96|159|145|105|145|144|155|41,0.0
+901,901,56,56,1541068737,1,search for poi,188,IT,"Milan, Italy",desktop,,,,
+902,902,56,56,1541068803,2,filter selection,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+903,903,56,56,1541068803,3,filter selection,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+904,904,56,56,1541068803,4,filter selection,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+905,905,56,56,1541068803,5,filter selection,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+906,906,56,56,1541068803,6,filter selection,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+907,907,56,56,1541068803,7,filter selection,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES),,,
+908,908,56,56,1541068959,8,search for poi,188,IT,"Milan, Italy",desktop,5 Star|4 Star|Hotel|Motel|Resort|Hostal (ES)|Focus on Distance,,,
+909,909,56,56,1541068992,9,search for poi,188,IT,"Assago, Italy",desktop,,,,
+910,910,56,56,1541069001,10,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+911,911,56,56,1541069001,11,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+912,912,56,56,1541069003,12,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+913,913,56,56,1541069004,13,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+914,914,56,56,1541069004,14,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+915,915,56,56,1541069004,15,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+916,916,56,56,1541069005,16,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+917,917,56,56,1541069005,17,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+918,918,56,56,1541069015,18,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+919,919,56,56,1541069015,19,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+920,920,56,56,1541069015,20,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+921,921,56,56,1541069015,21,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+922,922,56,56,1541069015,22,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+923,923,56,56,1541069015,23,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+924,924,56,56,1541069015,24,interaction item image,188,IT,"Assago, Italy",desktop,,,,3.0
+925,925,56,56,1541069017,25,clickout item,188,IT,"Assago, Italy",desktop,,45130|45019|106367|1451689|45487|20332|84943|153098|108980|9317386|1164730|4082236|20378|3178580|45020|1834979|3389497|110074|397151|1711837|6550450|20285|20375|4836112|20253,151|125|90|117|118|76|138|225|80|152|56|126|71|60|165|156|75|73|104|65|70|91|69|65|136,0.0
+926,926,56,56,1541057199,1,search for destination,188,DE,"Hamburg, Germany",desktop,,,,
+927,927,56,56,1541057321,2,interaction item rating,188,DE,"Hamburg, Germany",desktop,,,,1.0
+928,928,56,56,1541071742,1,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+929,929,56,56,1541071742,2,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+930,930,56,56,1541071752,3,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+931,931,56,56,1541071752,4,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+932,932,56,56,1541071752,5,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+933,933,56,56,1541071752,6,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+934,934,56,56,1541071752,7,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+935,935,56,56,1541071752,8,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+936,936,56,56,1541071752,9,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+937,937,56,56,1541071752,10,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+938,938,56,56,1541071762,11,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+939,939,56,56,1541071762,12,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+940,940,56,56,1541071762,13,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+941,941,56,56,1541071762,14,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+942,942,56,56,1541071762,15,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+943,943,56,56,1541071762,16,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+944,944,56,56,1541071762,17,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+945,945,56,56,1541071762,18,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+946,946,56,56,1541071762,19,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+947,947,56,56,1541071762,20,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+948,948,56,56,1541071762,21,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+949,949,56,56,1541071762,22,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+950,950,56,56,1541071762,23,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+951,951,56,56,1541071772,24,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+952,952,56,56,1541071772,25,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+953,953,56,56,1541071772,26,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+954,954,56,56,1541071772,27,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+955,955,56,56,1541071772,28,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+956,956,56,56,1541071782,29,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+957,957,56,56,1541071782,30,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+958,958,56,56,1541071782,31,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+959,959,56,56,1541071782,32,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+960,960,56,56,1541071782,33,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+961,961,56,56,1541071782,34,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+962,962,56,56,1541071782,35,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+963,963,56,56,1541071782,36,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+964,964,56,56,1541071782,37,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+965,965,56,56,1541071790,38,clickout item,188,TH,"Phetchabun, Thailand",mobile,,4783716|134412|2677282|2635106|3371467|2266848|515851|9604616|3862056|2679006|4611492|4089876|2295618|2860460|4591626|9603276|4658618|2294304|9702362|4112186|2679148|8766342|4825986|8739844|4827236,16|51|24|142|93|59|23|37|79|33|11|40|36|34|21|334|37|27|64|22|17|227|53|61|32,0.0
+966,966,56,56,1541071792,39,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+967,967,56,56,1541071792,40,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+968,968,56,56,1541071792,41,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+969,969,56,56,1541071792,42,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+970,970,56,56,1541071792,43,interaction item image,188,TH,"Phetchabun, Thailand",mobile,,,,3.0
+971,971,56,56,1541071873,44,clickout item,188,TH,"Phetchabun, Thailand",mobile,,4783716|134412|2677282|2635106|3371467|2266848|515851|9604616|3862056|2679006|4611492|4089876|2295618|2860460|4591626|9603276|4658618|2294304|9702362|4112186|2679148|8766342|4825986|8739844|4827236,16|51|24|142|93|59|23|37|79|33|11|40|36|34|21|334|37|27|64|22|17|227|53|61|32,0.0
+972,972,56,56,1541107510,1,search for item,188,UK,"Liverpool, United Kingdom",desktop,,,,5.0
+973,973,56,56,1541107524,2,clickout item,188,UK,"Liverpool, United Kingdom",desktop,,3953294|12618|2530750|3842698|18904|706646|106131|2707162|1320620|1829147|12619|1446441|137487|934069|2518208|152873|12616|5206872|47045|515946|12615|1535477|12620|47392|152875,299|232|170|237|193|262|163|180|276|251|170|263|314|164|214|261|255|113|222|146|221|193|193|245|174,0.0
+974,974,56,56,1541085367,1,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+975,975,56,56,1541085367,2,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+976,976,56,56,1541085367,3,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+977,977,56,56,1541085367,4,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+978,978,56,56,1541085367,5,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+979,979,56,56,1541085367,6,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+980,980,56,56,1541085367,7,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+981,981,56,56,1541085367,8,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+982,982,56,56,1541085367,9,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+983,983,56,56,1541085384,10,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+984,984,56,56,1541085397,11,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+985,985,56,56,1541085397,12,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+986,986,56,56,1541085397,13,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+987,987,56,56,1541085397,14,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+988,988,56,56,1541085397,15,interaction item image,188,MY,"Kijal, Malaysia",mobile,,,,3.0
+989,989,56,56,1541085415,16,clickout item,188,MY,"Kijal, Malaysia",mobile,,519156|3804628|5091040|3228742|6807498|5155718|3766522|3817916|5208684|8178350,67|18|18|23|26|20|22|15|11|130,0.0
+990,990,56,56,1541093637,1,clickout item,188,US,"Erie, USA",mobile,,3816090|59049|942643|3152072|76950|6621092|60489|5703812|66501|5807118|5130502|60705|74978|940300|882439|78420|5477204|76105|3132535|66403|74977|63964|69809|62477|1722631,59|52|78|70|53|63|146|44|63|87|113|69|62|104|104|50|79|61|77|78|96|87|83|75|60,0.0
+991,991,56,56,1541094073,2,interaction item info,188,US,"Erie, USA",mobile,,,,2.0
+992,992,56,56,1541094079,3,clickout item,188,US,"Erie, USA",mobile,,3816090|59049|942643|3152072|6621092|76950|60489|66501|5703812|5807118|5130502|60705|74978|940300|78420|882439|5477204|76105|3132535|66403|74977|63964|69809|62477|1722631,59|52|78|70|63|53|112|63|44|87|113|69|62|104|50|104|61|61|77|78|105|87|83|75|60,0.0
+993,993,56,56,1541101041,1,search for destination,188,CA,"Toronto, Canada",desktop,,,,
+994,994,56,56,1541101104,2,interaction item image,188,CA,"Toronto, Canada",desktop,,,,3.0
+995,995,56,56,1541101104,3,interaction item image,188,CA,"Toronto, Canada",desktop,,,,3.0
+996,996,56,56,1541101114,4,interaction item info,188,CA,"Toronto, Canada",desktop,,,,2.0
+997,997,56,56,1541101134,5,interaction item rating,188,CA,"Toronto, Canada",desktop,,,,1.0
+998,998,56,56,1541101134,6,interaction item deals,188,CA,"Toronto, Canada",desktop,,,,4.0
+999,999,56,56,1541101144,7,interaction item image,188,CA,"Toronto, Canada",desktop,,,,3.0
